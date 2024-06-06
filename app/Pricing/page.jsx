@@ -436,7 +436,7 @@ const Price = () => {
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="max-w-2xl mx-auto text-center">
             <h2 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl lg:text-5xl">Contact us</h2>
-            <p className="max-w-xl mx-auto mt-4 text-base leading-relaxed text-gray-500">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat reprehenderit excepturi distinctio asperiores ratione unde. Illo, fugit dolorum cupiditate consectetur quidem error tempore vero quae facere eius exercitationem commodi maiores..</p>
+            <p className="max-w-xl mx-auto mt-4 text-base leading-relaxed text-gray-500">Lorem ipsum dolor, sit amat consectetur adipisicing elit. Fugiat reprehenderit excepturi distinctio asperiores ratione unde. Illo, fugit dolorum cupiditate consectetur quidem error tempore vero quae facere eius exercitationem commodi maiores..</p>
         </div>
 
         <div className="max-w-5xl mx-auto mt-12 sm:mt-16">
