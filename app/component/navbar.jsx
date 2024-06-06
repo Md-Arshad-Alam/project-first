@@ -50,14 +50,15 @@ const Navbar = () => {
                   Features
                   </Link>
                 </li>
-                <li className="pb-4 text-xl text-white py-2 px-6 text-center  border-b-2 md:border-b-0  hover:bg-purple-600  border-purple-900  md:hover:text-purple-600 md:hover:bg-transparent">
-                  <Link href="/Pricing" onClick={() => setNavbar(!navbar)}>
-                  Pricing
-                  </Link>
-                </li>
+              
                 <li className="pb- text-xl text-white py-2 px-6 text-center  border-b-2 md:border-b-0  hover:bg-purple-600  border-purple-900  md:hover:text-purple-600 md:hover:bg-transparent">
                   <Link href="/Solutions" onClick={() => setNavbar(!navbar)}>
                   Solutions
+                  </Link>
+                </li>
+                <li className="pb-4 text-xl text-white py-2 px-6 text-center  border-b-2 md:border-b-0  hover:bg-purple-600  border-purple-900  md:hover:text-purple-600 md:hover:bg-transparent">
+                  <Link href="/Pricing" onClick={() => setNavbar(!navbar)}>
+                  Pricing
                   </Link>
                 </li>
                 
