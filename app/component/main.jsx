@@ -3,7 +3,7 @@ import React from 'react'
 const Main = () => {
   return (
     <>
-     <div className="bg-gradient-to-b from-[#101212] relative to-[#08201D]">
+     <div className="bg-gradient-to-b from-[#101212] relative to-[#08201D] z-0">
      <section className="relative lg:min-h-[1000px] pt-24 pb-10 sm:pt-32 sm:pb-16 lg:pb-24">
          <div className="absolute inset-x-0 bottom-0 z-10 hidden lg:flex">
              <img className="hidden w-full lg:block" src="https://cdn.rareblocks.xyz/collection/celebration/images/hero/5/credit-cards.png" alt="" />
